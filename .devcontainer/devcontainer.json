@@ -1,0 +1,9 @@
+{
+    "name": "Lab 2",
+    "extensions": [
+        "esbenp.prettier-vscode",
+        "ms-vsliveshare.vsliveshare",
+        "ms-vscode.live-server"
+    ],
+    "postCreateCommand": "npm install"
+  }
